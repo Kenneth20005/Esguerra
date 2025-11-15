@@ -1,0 +1,86 @@
+    1  cd
+    2  cd document
+    3  ls
+    4  mkdir Esguerra
+    5  ls
+    6  cd
+    7  cd documents/Esguerra
+    8  git status
+    9  git commit -m "Frist commit"
+   10  git bracnh -M main
+   11  git branch -M main
+   12  git remote add origin http://github.com/kenneth2005/Esguerra.git
+   13  git push
+   14  git status
+   15  ls
+   16  git status
+   17  git --global user.name
+   18  git config --global user.name
+   19  git config --global user.email
+   20  git add .
+   21  git status
+   22  git init
+   23  git remote add origin https://github.com/Kenneth20005/Esguerra.git
+   24  git push -u origin main
+   25  history
+   26  git push -u origin main
+   27  git push -u origin main
+   28  git push -u origin main
+   29  git reset
+   30  git add .
+   31  git status
+   32  ls
+   33  git init
+   34  git init
+   35  rm .git
+   36  git init
+   37  git remote add origin https://github.com/Kenneth20005/Esguerra.git
+   38  get init
+   39  git add Readme.md
+   40  git commit -m "First commit"
+   41  cd/Esguerra
+   42  git reset
+   43  reset
+   44  cd document
+   45  cd Documents
+   46  git init
+   47  git add Readmme.txt
+   48  git add Readme.md
+   49  git commit -m "First commit"
+   50  git remote and origin https://github.com/Kenneth20005/Esguerra.git
+   51  git push -u origin master
+   52  git push
+   53  git config --global user.name
+   54  git config --global user.email
+   55  git statue
+   56  git status
+   57  git push
+   58  git push -u origin main
+   59  git init
+   60  git add Readme.md
+   61  git commit -m "First commit"
+   62  git add
+   63  git add .
+   64  git Readme.txt
+   65  git --help
+   66  ls
+   67  git add .
+   68  ls -al
+   69  rm -rf Esguerra
+   70  git add .
+   71  git commit -m "first committ"
+   72  git status
+   73  ls
+   74  git init
+   75  git add .
+   76  ls
+   77  git add .
+   78  git status
+   79  git commit -m "first committ"
+   80  git remote add origin https://github.com/Kenneth20005/Esguerra.git
+   81  git push -u origin main
+   82  git branch -M main
+   83  git add .
+   84  git commit -m "first committ"
+   85  git push -u origin main
+   86  history
